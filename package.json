@@ -1,0 +1,19 @@
+{
+  "name": "threejs-shooter",
+  "version": "1.0.0",
+  "description": "A 3D shooter game built with Three.js",
+  "main": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "lite-server"
+  },
+  "dependencies": {
+    "three": "^0.130.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.6.1",
+    "typescript": "^4.5.4"
+  },
+  "author": "Balpreet",
+  "license": "MIT"
+}
